@@ -11,5 +11,4 @@ import {NavigationComponent} from "../navigation/navigation.component";
   templateUrl: './container-layout.component.html',
   styleUrls: ['./container-layout.component.css']
 })
-export class ContainerLayoutComponent  {
-}
+export class ContainerLayoutComponent  { }
