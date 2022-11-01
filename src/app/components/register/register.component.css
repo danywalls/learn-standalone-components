@@ -1,0 +1,41 @@
+:host {
+  flex: 1;
+  padding: 4rem;
+  display:flex;
+  align-items: center;
+  background: #fff;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  min-width: 300px;
+}
+
+label {
+  margin-bottom: 0.5rem;
+}
+
+button {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background: #fff;
+  cursor: pointer;
+  width: 140px
+}
+
+button:active {
+  background: #efe;
+}
+
+button:hover {
+  background: #88aae1
+}

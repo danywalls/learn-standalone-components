@@ -1,0 +1,16 @@
+ul.navigation {
+
+}
+li {
+    display: inline;
+    margin: 0 10px;
+}
+
+li:hover {
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+.active {
+  font-weight: bold;
+}

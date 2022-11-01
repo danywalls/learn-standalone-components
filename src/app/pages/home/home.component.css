@@ -1,0 +1,5 @@
+.sections {
+  display:flex;
+  gap: 3rem;
+  height: 100%;
+}
